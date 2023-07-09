@@ -11,7 +11,9 @@
 
 
 <!--- snake -->
-![snake](https://github.com/DhafaAryanda/DhafaAryanda/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <img src="https://github.com/DhafaAryanda/DhafaAryanda/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
+</div>
 
 
 
@@ -48,8 +50,9 @@
 </div>
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
