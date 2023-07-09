@@ -11,10 +11,7 @@
 
 
 <!--- snake -->
-<div align="center">
-  <img  src="https://github.com/DhafaAryanda/DhafaAryanda/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<![snake gif](https://github.com/DhafaAryanda/DhafaAryanda/blob/output/github-contribution-grid-snake.gif)
 
 
 <!--h2 without bottom border-->
