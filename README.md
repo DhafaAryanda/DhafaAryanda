@@ -11,8 +11,10 @@
 
 
 <!--- snake -->
-<![snake gif](https://github.com/DhafaAryanda/DhafaAryanda/blob/output/github-contribution-grid-snake.gif)
-
+<div align="center">
+  <img  src="https://github.com/DhafaAryanda/DhafaAryanda/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!--h2 without bottom border-->
 <div id="user-content-toc">
@@ -23,19 +25,12 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+- 🔭 I’m currently working on **React, Laravel, Nodejs**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 🌱 I’m currently learning **Android & Web**
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+- 📫 Feel free to reach me out **dhofaaryanda4@gmail.com**
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
-
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
-
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
-
-- 🏠 Also We've a tech community called [Dev Hac](https://discord.com/invite/p4TWyft886).
 <!--Intro end-->
 
 
