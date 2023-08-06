@@ -26,7 +26,6 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **React, Laravel, Nodejs**
 
 - 🌱 I’m currently learning **Android & Web**
 
