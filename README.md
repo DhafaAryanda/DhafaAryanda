@@ -10,13 +10,6 @@
 </div>
 
 
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com/DhafaAryanda/DhafaAryanda/blob/output/github-contribution-grid-snake.svg" alt="Snake" />
-</div>
-
-
-
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -30,6 +23,8 @@
 - 🌱 I’m currently learning **Android & Web**
 
 - 📫 Feel free to reach me out **dhofaaryanda4@gmail.com**
+
+![](https://komarev.com/ghpvc/?username=DhafaAryanda&color=blue)
 
 <!--Intro end-->
 
