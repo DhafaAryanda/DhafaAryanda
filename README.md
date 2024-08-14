@@ -39,8 +39,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DhafaAryanda&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhafaAryanda&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Computer-Vision-2022
-" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DhafaAryanda&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Computer-Vision-2022" alt="Most Used Languages" />
 </div>
 
 ### ✍️ Random Dev Quote
